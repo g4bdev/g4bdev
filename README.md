@@ -31,7 +31,8 @@
 
 <div align="center">
 
- ## At this exact moment I'm programming and listening:
-  <img src="https://camo.githubusercontent.com/09ee80e7a0aaab92d250ac26a65ef4879a16d3ea0d4099861411d5d88a26110a/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f727974686d6963616c706172726f742e676966" width="40">
+ ## At this exact moment I'm programming and listening <img src="https://camo.githubusercontent.com/09ee80e7a0aaab92d250ac26a65ef4879a16d3ea0d4099861411d5d88a26110a/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f727974686d6963616c706172726f742e676966" width="40">
+  
+[![Spotify](https://novatorem-g4bdev.vercel.app/api/spotify)](https://open.spotify.com/user/Caramelo4)
 
 </div>
