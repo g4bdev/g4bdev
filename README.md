@@ -1,5 +1,5 @@
 
-##  Hi! I'm Gabriella<img src="https://cultofthepartyparrot.com/parrots/hd/flowerparrot.gif" width="30"> 
+##  Hi! I'm Gabriella  <img src="https://cultofthepartyparrot.com/parrots/hd/rythmicalparrot.gif" width="30"> 
 <p><em>Front-End Developer at <a href="https://www.atlantico.com.br">Instituto Atlântico</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
