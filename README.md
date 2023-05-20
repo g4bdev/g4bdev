@@ -1,7 +1,7 @@
 <div align="center">
 
 ##  Hi! I'm Gabriella  <img src="https://cultofthepartyparrot.com/parrots/hd/mergeconflictparrot.gif" width="30"> 
-<p><em>WEB Developer at <a href="https://www.atlantico.com.br">Instituto Atlântico</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Game Designer | Programmer | UX UI <a href="https://www.atlantico.com.br">Instituto Atlântico</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 </div>
 
